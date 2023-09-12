@@ -15,9 +15,9 @@ The Quiz Management System is a Windows Forms application designed to facilitate
 This Windows Form-based system offers a user-friendly interface for ease of use.
 
 <a name="feature"></a>
-### ⚡ Features
+## ⚡ Features
 
-##  🔥 Teacher Role
+###  🔥 *Teacher Role*
 
 * Quiz Management: Teachers can create new quizzes, edit existing ones, or delete outdated quizzes.
 * Question Management: Teachers can add, update, and delete quiz questions, along with options and correct answers.
@@ -25,7 +25,7 @@ This Windows Form-based system offers a user-friendly interface for ease of use.
 * Result Analysis: Teachers can view detailed results for each student after they have completed a quiz, including individual student scores and question-wise performance.
 * User-Friendly Interface: Teachers have access to a well-structured interface for easy quiz management.
 
-##  🔥 Student Role
+###  🔥 *Student Role*
 
 * User Registration and Login: Students can register for an account and securely log in.
 * Quiz Participation: Students can access available quizzes, answer questions within specified time limits, and submit their responses.
@@ -35,7 +35,7 @@ This Windows Form-based system offers a user-friendly interface for ease of use.
 * Profile Management: Students can update their profile information.
 
    <a name="technologies"></a>
-### 🪓Technologies
+## 🪓Technologies
 Project is created with:
 * Frontend: Windows Forms (C#)
 * Database: SQLite or MS Access (for storing quiz data)
@@ -44,7 +44,7 @@ Project is created with:
 * User Interface: Visual Studio
 
  <a name="clone-project"></a>
-### 🥡Clone Project
+## 🥡Clone Project
 * Clone the repo
 ```sh
 git clone https://github.com/yoonmyatphoo-mmr/Quiz_Management_System.git
