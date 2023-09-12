@@ -1,14 +1,14 @@
 # Quiz_Management_System
 	
 ## 🔖Table of Contents
-* [Overview](#overview)
-* [General info](#general-info)
-* [Features](#feature)
-	*[Teacher Role](#teacher)
-	*[Student Role](#student)
-* [Technologies](#technologies)
-* [Clone Project](#clone-project)
-* [Contact Me](#contact)
+- [Overview](#overview)
+- [General info](#general-info)
+- [Features](#feature)
+	- [Teacher Role](#teacher)
+	-[Student Role](#student)
+- [Technologies](#technologies)
+- [Clone Project](#clone-project)
+- [Contact Me](#contact)
 
 
 <a name="general-info"></a>
@@ -58,5 +58,5 @@ git clone https://github.com/yoonmyatphoo-mmr/Quiz_Management_System.git
    * Name - Yoon Myat Phoo 
    * LinkedIn profile - [Yoon Myat Phoo's LinkedIn](https://www.linkedin.com/in/yoon-myat-phoo-9b32531b7/)
    * Email Address - yoonmyatphoo.mmr@gmail.com
-   * Project Link - [Blood Bank Management System](https://github.com/yoonmyatphoo-mmr/Blood_Bank_Management_System)
+   * Project Link - [Blood Bank Management System](https://github.com/yoonmyatphoo-mmr/Quiz_Management_System)
     
