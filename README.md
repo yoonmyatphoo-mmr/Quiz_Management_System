@@ -5,7 +5,7 @@
 - [General info](#general-info)
 - [Features](#feature)
 	- [Teacher Role](#teacher)
-	-[Student Role](#student)
+	- [Student Role](#student)
 - [Technologies](#technologies)
 - [Clone Project](#clone-project)
 - [Contact Me](#contact)
