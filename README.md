@@ -1,6 +1,6 @@
 # Quiz_Management_System
 	
-## Table of Contents
+## 🔖Table of Contents
 * [Overview](#overview)
 * [General info](#general-info)
 * [Features](#feature)
@@ -10,14 +10,14 @@
 
 
 <a name="general-info"></a>
-## ⚡General info
+## 🔔General info
 The Quiz Management System is a Windows Forms application designed to facilitate the management of quizzes and tests in an educational environment. This application serves two primary user roles: Teachers and Students. Teachers can create, manage, and assess quizzes, while Students can participate in quizzes with time limits, register, and view their scores.
 This Windows Form-based system offers a user-friendly interface for ease of use.
 
 <a name="feature"></a>
 ## ⚡ Features
 
-2.1 Teacher Role
+🔥 Teacher Role
 
 * Quiz Management: Teachers can create new quizzes, edit existing ones, or delete outdated quizzes.
 * Question Management: Teachers can add, update, and delete quiz questions, along with options and correct answers.
@@ -25,7 +25,7 @@ This Windows Form-based system offers a user-friendly interface for ease of use.
 * Result Analysis: Teachers can view detailed results for each student after they have completed a quiz, including individual student scores and question-wise performance.
 * User-Friendly Interface: Teachers have access to a well-structured interface for easy quiz management.
 
-2.2 Student Role
+🔥 Student Role
 
 * User Registration and Login: Students can register for an account and securely log in.
 * Quiz Participation: Students can access available quizzes, answer questions within specified time limits, and submit their responses.
