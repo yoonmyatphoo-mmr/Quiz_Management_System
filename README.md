@@ -58,5 +58,5 @@ git clone https://github.com/yoonmyatphoo-mmr/Quiz_Management_System.git
    * Name - Yoon Myat Phoo 
    * LinkedIn profile - [Yoon Myat Phoo's LinkedIn](https://www.linkedin.com/in/yoon-myat-phoo-9b32531b7/)
    * Email Address - yoonmyatphoo.mmr@gmail.com
-   * Project Link - [Blood Bank Management System](https://github.com/yoonmyatphoo-mmr/Quiz_Management_System)
+   * Project Link - Quiz Management System](https://github.com/yoonmyatphoo-mmr/Quiz_Management_System)
     
